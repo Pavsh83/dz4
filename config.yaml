@@ -1,0 +1,14 @@
+folder_in: /home/user/tst
+folder_out: /home/user/out
+folder_ext: /home/user/folder1
+folder_ext2: /home/user/folder2
+count: 5
+bs: 1M
+type: zip
+ip: 0.0.0.0
+user: user2
+passwd: 11
+local_path: /home/user/p7zip-full.deb
+remote_path: /home/user2/p7zip-full.deb
+archive_type: zip
+file_size: 100MB
